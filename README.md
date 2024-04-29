@@ -25,7 +25,7 @@ The core part includes two modules.
 ## Test Example
 
 ### Test1 : Generate deployment plan 
-S1: On the PC Compiler (PyCharm), compile and run:
+- S1: On the PC Compiler (PyCharm), compile and run:
 ```
 python ONNXtoIR.py
 ```
@@ -33,27 +33,26 @@ or terminal, run:
 ```
 python ONNXtoIR.py --onnxname "name.onnx"
 ```
-S2: On the PC Compiler (VS), compile and run:
+- S2: On the PC Compiler (VS), compile and run:
 ```
 ./FlexPie/src/dp
 ```
 ### Test2 : On-board testing 
-<p style="text-shadow: 2px 2px 4px #000000;">
-S1: Load Project
+- S1: Load Project
 <div align="left">
-  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-1.jpg">
+  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-1.jpg" width="200" height="100">
 </div>
-S2: To add a device, follow the following process to add a device. One to four can be added.
+- S2: To add a device, follow the following process to add a device. One to four can be added.
 <div align="left">
-  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-2.jpg">
+  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-2.jpg" width="200" height="100">
 </div>
-S3: Select the corresponding topology, such as Ring, PS or Mesh.
+- S3: Select the corresponding topology, such as Ring, PS or Mesh.
 <div align="left">
-  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-3.jpg">
+  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-3.jpg" width="200" height="100">
 </div>
-S4:Compile the executable separately for each device.
+- S4:Compile the executable separately for each device.
 <div align="left">
-  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-4.jpg">
+  <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-4.jpg" width="200" height="100">
 </div>
 S5:Load to board and run.
 
