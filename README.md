@@ -6,3 +6,8 @@ FlexPie contains a combination of flexible and pie. For edge-based distributed i
 git clone https://github.com/Happyrhzhang/FlexPie.git
 ```
 ****
+## File Structure
+The core part includes two modules
+&middot Cost Model :Generate deployment plan 
+&middot Hardware Test : On-board testing
+****
