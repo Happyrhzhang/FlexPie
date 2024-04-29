@@ -42,18 +42,22 @@ python ONNXtoIR.py --onnxname "name.onnx"
 <div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-1.jpg" width="400" height="200">
 </div>
+
 - S2: To add a device, follow the following process to add a device. One to four can be added.
 <div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-2.jpg" width="400" height="200">
 </div>
+
 - S3: Select the corresponding topology, such as Ring, PS or Mesh.
 <div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-3.jpg" width="400" height="200">
 </div>
+
 - S4:Compile the executable separately for each device.
 <div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-4.jpg" width="400" height="200">
 </div>
+
 - S5:Load to board and run.
 
 ## Future Plan
