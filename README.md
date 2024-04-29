@@ -54,7 +54,7 @@ python ONNXtoIR.py --onnxname "name.onnx"
 <div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-4.jpg" width="400" height="200">
 </div>
-S5:Load to board and run.
+- S5:Load to board and run.
 
 ## Future Plan
 - Support deployment applications of larger scale nodes.
