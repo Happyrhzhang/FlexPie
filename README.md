@@ -7,7 +7,7 @@ git clone https://github.com/Happyrhzhang/FlexPie.git
 ```
 ****
 ## File Structure
-The core part includes two modules
-&middot Cost Model :Generate deployment plan 
-&middot Hardware Test : On-board testing
+The core part includes two modules.
+- Cost Model :Generate deployment plan 
+- Hardware Test : On-board testing
 ****
