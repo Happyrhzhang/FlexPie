@@ -38,7 +38,7 @@ S2: On the PC Compiler (VS), compile and run:
 ./FlexPie/src/dp
 ```
 ### Test2 : On-board testing 
-<div align="center">
+<div align="left">
   <img src="https://github.com/Happyrhzhang/FlexPie/blob/main/Fig/2-1.jpg">
 </div>
 
