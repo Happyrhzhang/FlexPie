@@ -8,6 +8,19 @@ git clone https://github.com/Happyrhzhang/FlexPie.git
 ****
 ## File Structure
 The core part includes two modules.
-- Cost Model :Generate deployment plan 
+- Cost Model : Generate deployment plan 
 - Hardware Test : On-board testing
 ****
+## Install & Dependencies
+- Windows 10
+- Compiler: CCS 6.1.0, VS 2019, PyCharm 2021
+- Python 3.9
+- Pytorch 1.12
+- ONNX 1.10.2
+- XGBoost 1.7.4
+- Sklearn 1.2.1 
+- PDK: C6678 1.1.2.6
+- Xdctools 3.25.3.72
+****
+## Test Example
+### Test1 : Generate deployment plan 
