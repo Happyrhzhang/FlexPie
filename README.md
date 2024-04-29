@@ -25,8 +25,18 @@ The core part includes two modules.
 ## Test Example
 
 ### Test1 : Generate deployment plan 
-
-
+S1: On the PC Compiler (PyCharm), compile and run:
+```
+python ONNXtoIR.py
+```
+or terminal, run:
+```
+python ONNXtoIR.py --onnxname "name.onnx"
+```
+S2: On the PC Compiler (VS), compile and run:
+```
+./FlexPie/src/dp
+```
 ### Test2 : On-board testing 
 
 ## Future Plan
