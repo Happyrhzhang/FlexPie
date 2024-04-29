@@ -24,3 +24,10 @@ The core part includes two modules.
 ****
 ## Test Example
 ### Test1 : Generate deployment plan 
+
+****
+### Test2 : On-board testing 
+
+## Future Plan
+- Support deployment applications of larger scale nodes.
+- Extending FlexPie to more edge hardware.
