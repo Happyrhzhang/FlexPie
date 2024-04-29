@@ -1,21 +1,17 @@
 ## FlexPie: Accelerate Distributed Inference on Edge Devices with Flexible Model Partition
-****
 FlexPie contains a combination of flexible and pie. For edge-based distributed inference applications, the combinatorial optimization is as rich as pie and can be flexibly extended to multiple edge devices.
 
 ## Clone Project
-****
 ```
 git clone https://github.com/Happyrhzhang/FlexPie.git
 ```
 
 ## File Structure
-****
 The core part includes two modules.
 - Cost Model : Generate deployment plan 
 - Hardware Test : On-board testing
 
 ## Install & Dependencies
-****
 - Windows 10
 - Compiler: CCS 6.1.0, VS 2019, PyCharm 2021
 - Python 3.9
@@ -27,16 +23,12 @@ The core part includes two modules.
 - Xdctools 3.25.3.72
 
 ## Test Example
-****
 
 ### Test1 : Generate deployment plan 
-****
 
 
 ### Test2 : On-board testing 
-****
 
 ## Future Plan
-****
 - Support deployment applications of larger scale nodes.
 - Extending FlexPie to more edge hardware.
